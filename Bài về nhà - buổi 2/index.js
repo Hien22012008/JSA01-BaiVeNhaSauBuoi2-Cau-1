@@ -1,13 +1,2 @@
-var myDog = {
-    "name" : "Ngáo",
-    "legs" : 4,
-    "friends" : ["everything !"]
-}
-
-myDog.color = "Brown"
-
-delete myDog.friends
-
-myDog.name= "Husky"
-
-console.log(myDog);
+myfruit = [["Orange",15], ["Grape",15], ["WaterMelon",1]]
+console.log(myfruit)
