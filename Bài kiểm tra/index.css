@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(87, 152, 218);
+}
+h2 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.form {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: seagreen;
+    padding: 20px 10px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    height:250px;
+}
